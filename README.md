@@ -7,4 +7,11 @@ Example code for "Tuning machine learning dropout for subsurface uncertainty mod
 
 ## Notebook example
 
+* Introduction
+* Dataset
+* Deterministic prediction
+* Uncertainty model generation
+* Dropout tuning
+* Observations
+
 ## Usage
