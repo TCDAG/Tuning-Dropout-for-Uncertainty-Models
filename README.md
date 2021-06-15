@@ -19,18 +19,18 @@ This problem can be expanded to any prediction problem.
 ## Notebook contents
 
 1. Executive summary
-2. Objective
-3. Introduction
-4. Library importing
-5. Functions
-6. Dataset exploration
-7. Dataset normalization and split
-8. Deterministic prediction
-  8. Model goodness evaluation
-9. Uncertainty model generation
-  9. Model goodness evaluation
-10 Hyperparameter space exploration
-  10. Summary of the training
-11. Conclusions and observations
+1. Objective
+1. Introduction
+1. Library importing
+1. Functions
+1. Dataset exploration
+1. Dataset normalization and split
+1. Deterministic prediction
+  1. Model goodness evaluation
+1. Uncertainty model generation
+  1. Model goodness evaluation
+1. Hyperparameter space exploration
+  1. Summary of the training
+1. Conclusions and observations
 
 **NOTE**: The hyperparameter space exploration section might be too long to run, we have included the results of the grid search in Search-Space.pkl. Feel free to skip this section and load the results in Summary of the training subsection
