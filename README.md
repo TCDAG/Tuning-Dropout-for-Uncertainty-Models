@@ -1,5 +1,6 @@
 # Tuning Dropout for Uncertainty Models
-Example code for "Tuning machine learning dropout for subsurface uncertainty model accuracy" https://doi.org/10.1016/j.petrol.2021.108975
+Workflow to evaluate and tune a deep learning model using the uncertainty model goodness metric.
+https://doi.org/10.1016/j.petrol.2021.108975
 
 ## Executive summary
 
